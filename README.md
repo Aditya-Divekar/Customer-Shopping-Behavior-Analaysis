@@ -22,7 +22,9 @@ I recently completed a data analytics project where I analyzed **3,900+ customer
 
 ---
 
+
 **📂 Project Structure**
+
 ├── data/
 
 ├── notebooks/
@@ -31,9 +33,8 @@ I recently completed a data analytics project where I analyzed **3,900+ customer
 
 ├── powerbi_dashboard/
 
-├── scripts/
-
 └── README.md
+
 
 ---
 
