@@ -1,4 +1,4 @@
-### 🚀 **Customer Shopping Behavior – End-to-End Data Analytics Project**
+### **Customer Shopping Behavior – End-to-End Data Analytics Project**
 
 I recently completed a data analytics project where I analyzed **3,900+ customer transactions** to understand shopping patterns and uncover business opportunities.
 
@@ -21,6 +21,17 @@ I recently completed a data analytics project where I analyzed **3,900+ customer
 💡 Provided **business recommendations** to improve subscriptions, loyalty & targeted marketing
 
 ---
+
+**📂 Project Structure**
+├── data/
+├── notebooks/
+├── sql_queries/
+├── powerbi_dashboard/
+├── scripts/
+└── README.md
+
+---
+
 
 ### 🛠️ **Tech Stack**
 
