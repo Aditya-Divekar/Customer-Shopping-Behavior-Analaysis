@@ -24,10 +24,15 @@ I recently completed a data analytics project where I analyzed **3,900+ customer
 
 **📂 Project Structure**
 ├── data/
+
 ├── notebooks/
+
 ├── sql_queries/
+
 ├── powerbi_dashboard/
+
 ├── scripts/
+
 └── README.md
 
 ---
