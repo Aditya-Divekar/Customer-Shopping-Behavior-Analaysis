@@ -2,7 +2,7 @@
 
 I recently completed a data analytics project where I analyzed **3,900+ customer transactions** to understand shopping patterns and uncover business opportunities.
 
-**📁 GitHub Repo:** [https://github.com/Aditya-Divekar/Customer-Shopping-Behavior-Analysis](https://github.com/Aditya-Divekar/Customer-Shopping-Behavior-Analysis)
+**📁 GitHub Repo:** [https://github.com/Aditya-Divekar/Customer-Shopping-Behavior-Analaysis]
 
 ---
 
